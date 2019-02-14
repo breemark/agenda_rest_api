@@ -1,6 +1,6 @@
 # AGENDA Restful API
 
-##### This project is dedicated to the Anevi students and in memory of 
+##### This project is for the Anevi students and in memory of 
 ##### my highschool classmates and teachers: 
 ##### Justo Sierra, Mexico City, IT class.
 ##### We made a project for the Science Fair back in 2011: 
