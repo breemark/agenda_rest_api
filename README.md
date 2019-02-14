@@ -26,11 +26,11 @@ Alright, lets make this work
     cause this will install all the necessary packages to make this thing work
 
 2. Now we need a MongoDB database, and well, there are two choices for this:
-a) Use your localhost
-    see 'server.js' line 12 and change that line
-b) Use mLab 
-    see 'server.js' line 15 and yeah, change that line
-    'mongodb://yourusernamehere:yourpasswordhere@theurlprovides.mlab.com:666/dbname'
+- Use your localhost
+see 'server.js' line 12 and change that line
+- Use mLab 
+see 'server.js' line 15 and yeah, change that line
+'mongodb://yourusernamehere:yourpasswordhere@theurlprovides.mlab.com:666/dbname'
 
 3. run the server:
     ```
