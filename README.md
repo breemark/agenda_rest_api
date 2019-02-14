@@ -1,4 +1,4 @@
-# AGENDA Restful API
+# AGENDA Restful API 🤘
 
 ##### This project is for the Anevi students and in memory of 
 ##### my highschool classmates and teachers: 
