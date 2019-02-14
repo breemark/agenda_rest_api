@@ -39,12 +39,12 @@ Alright, lets make this work
 ## Section II 
 ### Test the agenda
 
-    For this practice we will use the curl command to test this REST API
-    We will test the current HTTP Methods
-        - GET: Used to get the resource from the server
-        - POST: Used to create, send, post, store resources to the server
-        - PUT: Used to UPDATE resources, yet can also be used to Create
-        - DELETE: deletes a resource
+For this practice we will use the curl command to test this REST API
+We will test the current HTTP Methods
+- GET: Used to get the resource from the server
+- POST: Used to create, send, post, store resources to the server
+- PUT: Used to UPDATE resources, yet can also be used to Create
+- DELETE: deletes a resource
 
 1. POST. Because first we need to create some resources, in order to see them later
     ```
