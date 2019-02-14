@@ -17,6 +17,10 @@ Instructions:
 Alright, lets make this work
 
 0. Clone this project. and using the terminal access this directory
+```
+git clone https://github.com/breemark/agenda_rest_api.git
+cd agenda_rest_api
+```
 #### You must have a MongoDB DATABASE!
 
 1. First step is to run the command: 
