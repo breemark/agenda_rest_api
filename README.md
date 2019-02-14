@@ -37,7 +37,7 @@ Alright, lets make this work
     ```
 
 ## Section II 
-### Test the agenda
+### Test the Agenda REST API
 
 For this practice we will use the curl command to test this REST API
 We will test the current HTTP Methods
