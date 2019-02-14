@@ -17,6 +17,7 @@ Instructions:
 Alright, lets make this work
 
 0. Clone this project. and using the terminal access this directory
+#### You must have a MongoDB DATABASE!
 
 1. First step is to run the command: 
     ```
