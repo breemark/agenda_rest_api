@@ -1,6 +1,7 @@
 # AGENDA Restful API 🤘
 
-This project is for the Anevi students and in memory of my highschool classmates and teachers: Justo Sierra, Mexico City, IT class.
+This project is for the Anevi students 
+and in memory of my highschool classmates and teachers: Justo Sierra, Mexico City, IT class.
 We made a project for the Science Fair back in 2011: 
 https://www.youtube.com/watch?v=TX4RAr7LRPM
 Now I am working to make a better version of the original Agenda that was coded using Visual Basic 6
