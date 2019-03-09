@@ -69,8 +69,8 @@ We will test the current HTTP Methods
 
 3. PUT
     ```
-    curl -X PUT -d "title=something&description=whatever" http://127.0.1:3000/tasks/:taskId
-    curl -X PUT -d "title=something&description=whatever" http://127.0.1:3000/tasks/5c658a8cec77cc19008ccf4b
+    curl -X PUT -d "title=something&description=whatever" http://127.0.0.1:3000/tasks/:taskId
+    curl -X PUT -d "title=something&description=whatever" http://127.0.0.1:3000/tasks/5c658a8cec77cc19008ccf4b
     ```
     To update a resource
 
